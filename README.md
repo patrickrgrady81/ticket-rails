@@ -1,5 +1,4 @@
 # React on Rails 
 --------------------------------------
-### Ticketing System App
---------------------------------------
+#### Ticketing System App
 
